@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moje webová stránka</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Vítej na mé webové stránce!</h1>
+    <p>Toto je jednoduchá stránka vytvořená pomocí GitHub Pages.</p>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
